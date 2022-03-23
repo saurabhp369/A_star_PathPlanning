@@ -30,5 +30,5 @@ Sample output is shown as follows:
 
 <img src="https://github.com/saurabhp369/A_star_PathPlanning/blob/main/Visualisation/A_star.png" width = "400" height = "200">
 
-Video link:
+Video link: https://github.com/saurabhp369/A_star_PathPlanning/blob/main/Visualisation/Astar_visualisation.mp4
 
