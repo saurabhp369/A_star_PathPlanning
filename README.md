@@ -1,6 +1,6 @@
 Requirements:
 
-1) Python 3.8 (Since we are using math.dist() for eucledian distance which is available in Python >=3.8)
+1) Python 3.8 (Since math.dist() is used for eucledian distance which is available in Python >=3.8)
 
 2) OpenCV (cv2)
 
